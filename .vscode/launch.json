@@ -34,6 +34,7 @@
            }
        },
        {
+           
            "name": ".NET Core Launch (console)",
            "type": "coreclr",
            "request": "launch",
@@ -93,7 +94,7 @@
        },
 
         {
-            
+
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
